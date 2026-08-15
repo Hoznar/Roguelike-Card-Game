@@ -32,7 +32,7 @@ Herní mapa je vytvářena procedurálně z jednotlivých místností. Generáto
 
 ### Combat
 
-![Combat](images/combat.png)
+![Combat](images/battle.png)
 
 ### Shops
 
@@ -45,7 +45,7 @@ Herní mapa je vytvářena procedurálně z jednotlivých místností. Generáto
 
 ## Demo
 
-[Stáhnout hratelnou ukázku](DEMO_URL)
+[Stáhnout hratelnou ukázku](../../releases)
 
 ## Stav projektu
 
